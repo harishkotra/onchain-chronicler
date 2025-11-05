@@ -1,0 +1,17 @@
+{
+  "name": "onchain-chronicler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "install:all": "npm install && npm install --prefix frontend && npm install --prefix server",
+  "dev": "concurrently \"npm run dev --prefix frontend\" \"npm run dev --prefix server\""
+  },
+  "keywords": [],
+  "author": "Harish Kotra",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
