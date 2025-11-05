@@ -3,6 +3,7 @@
 Transform blockchain transactions into human-readable narratives using AI.
 
 **Live Contract**: [`0x41B20e82DBFDe8557363Ca0B7C232C7288EA3Aae`](https://shannon-explorer.somnia.network/address/0x41B20e82DBFDe8557363Ca0B7C232C7288EA3Aae) on Somnia Shannon Testnet
+[YouTube Demo Video](https://youtu.be/QpZWq2RcBGk)
 
 ---
 
@@ -18,6 +19,10 @@ Chronicle AI is a **decentralized AI-powered blockchain analysis platform** that
 - **📊 Leaderboard**: Track top contributors in the community
 - **🔍 Browse All Chronicles**: Explore every transaction that has been analyzed
 - **💰 Pay-per-Use**: Simple fee structure (0.001 STT per analysis)
+
+<img width="3476" height="2514" alt="screencapture-onchain-chronicler-production-093f-up-railway-app-2025-11-05-23_45_31" src="https://github.com/user-attachments/assets/556f1b26-ee83-4596-9770-593d304159ed" />
+<img width="3476" height="2514" alt="screencapture-onchain-chronicler-production-093f-up-railway-app-2025-11-05-23_45_42" src="https://github.com/user-attachments/assets/882023e4-1a41-43d7-9fec-aeed6c81c5c9" />
+
 
 ---
 
