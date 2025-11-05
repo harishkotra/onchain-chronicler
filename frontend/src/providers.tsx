@@ -28,7 +28,7 @@ export const somniaTestnet = defineChain({
 
 const config = createConfig(
   getDefaultConfig({
-    appName: 'Chronicle AI',
+    appName: 'Chronicler AI',
     chains: [somniaTestnet],
     walletConnectProjectId: import.meta.env.VITE_WALLETCONNECT_PROJECT_ID!,
     transports: {

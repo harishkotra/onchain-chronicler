@@ -620,11 +620,11 @@ function App() {
           <Box py={30} style={{ borderTop: '1px solid #222' }}>
             <Group justify="space-between" align="center">
               <Text size="sm" c="gray.6">
-                Built by <Text component="span" c="#fff" fw={600}>Kotra</Text>
+                Built by <Text component="span" c="#fff" fw={600}>Harish Kotra</Text>
               </Text>
               <Group gap="lg">
                 <Anchor
-                  href="https://github.com/yourusername/onchain-chronicler"
+                  href="https://github.com/harishkotra/onchain-chronicler"
                   target="_blank"
                   size="sm"
                   c="gray.5"
