@@ -1,4 +1,4 @@
-# Chronicle AI 🤖📝
+# Chronicler AI 🤖📝
 
 Transform blockchain transactions into human-readable narratives using AI.
 
@@ -6,7 +6,7 @@ Transform blockchain transactions into human-readable narratives using AI.
 
 ---
 
-## 🎯 What is Chronicle AI?
+## 🎯 What is Chronicler AI?
 
 Chronicle AI is a **decentralized AI-powered blockchain analysis platform** that converts raw transaction data into engaging, educational narratives. By combining smart contracts, AI agents, and a gamified user interface, it makes blockchain transparency accessible to everyone.
 
